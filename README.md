@@ -1,13 +1,21 @@
-# The Horiseon Website
+# HOriSEOn
 
 ## Description 
 
-This repo contains the material to build the Horiseon website. A media marketing company that aids in 
-building online presence. 
+A website designed for online marketing development. 
+
+## Built With
+
+* HTML
+* CSS
+* Microsoft Visual Sutdio Code
+
+## Website
+
+
 
 ## Credits
 
 Xander Rapstine [GitHub] (https://github.com/Xandromus)
 
 ## License
-
