@@ -16,8 +16,8 @@ https://dmknapp2385.github.io/HoriSEOn/
 
 ## Credits
 
-Xander Rapstine [GitHub] (https://github.com/Xandromus)
+Xander Rapstine [[GitHub](https://github.com/Xandromus)
 
 ## License
 
-This project is licensed under the terms of the [MIT license] (./license.txt).
+This project is licensed under the terms of the [MIT license](/icense.txt).
