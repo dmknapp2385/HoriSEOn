@@ -20,4 +20,4 @@ Xander Rapstine [[GitHub](https://github.com/Xandromus)
 
 ## License
 
-This project is licensed under the terms of the [MIT license](/icense.txt).
+This project is licensed under the terms of the [MIT license](/license.txt).
